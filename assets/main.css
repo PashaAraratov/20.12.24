@@ -1,0 +1,23 @@
+body {
+    background-color: #438a48;
+}
+h1 {
+    color: blue;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text {
+    border: 5px solid #0c43ba ;
+}
+.elem {
+    border: 5px solid #0c43ba;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    color: white;
+    padding: 20px;
+    margin: 30px;
+}
